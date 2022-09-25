@@ -1,0 +1,90 @@
+body{
+    background-color: lightgrey ;
+    font-family: 'Roboto', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial,sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    text-align: center ;
+    color: #333;
+    
+    
+    
+    }
+    main{
+        display: block;
+    }
+    #main{
+        border: 30px 8px;
+        
+        border-radius: 5px;
+        
+    }
+    #title, p{
+      
+    }
+    #img-div{
+        padding: 0 10px 5px 100px;
+        background-color: white;
+    
+    }
+    #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    
+    }
+    #img-caption{
+      background-color: white;
+      margin: 15px 0 5px 0;
+      text-align: center;
+    }
+    figcaption{
+        display: block;
+        text-align: center;
+        margin: 15px 0 5px 0;
+    }
+    section{
+      display: block;
+      max-width: 550px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+      line-height: 1.6;
+    }
+    ul{
+        list-style-type: disc;
+        max-width: 550px;
+        margin: 0 auto 50px auto;
+        text-align: left;
+        line-height: 1.6;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        
+
+    }
+    li{
+        margin: 16px 0;
+        text-align: -webkit-match-parent;
+        display: list-item;
+    }
+    #tribute-info{
+        margin: 50px 0;
+      
+    }
+    h3{
+        display: block;
+        font-size: 1.17em;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        text-align: center;
+    }
+    #tribute-link{
+      
+    }
+    #quote{
+        font-style: italic;
+        max-width: 545px;
+        margin: 0 auto 50px auto;
+    }
